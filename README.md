@@ -3,7 +3,7 @@
 BSc (Hons) in Data Science and Business Analytics — Group Project (Year 3)  
  General Sir John Kotelawala Defence University
 
----
+
 
  📌 Overview
 
@@ -17,7 +17,7 @@ The system analyzes:
 
 By combining these two sources of information, the system aims to provide a more accurate and reliable oral cancer prediction model that can support early screening and clinical decision-making.
 
----
+
 
 📂 Dataset
 
@@ -120,7 +120,7 @@ The project uses a late fusion approach:
 Image Model → Prediction ──┐
                             ├──► Final Classification
 Metadata Model → Prediction ┘
-```
+
 
 This improves prediction reliability by combining visual features with patient information.
 
@@ -139,7 +139,7 @@ Testing Set - 20%
 - Confusion Matrix
 - Classification Report
 
----
+
 
 🚀 How to Run
 
@@ -148,13 +148,13 @@ Install all required dependencies:
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 Run Notebooks Step by Step
 
 ```bash
 jupyter notebook
-```
+
 
 Open and run the notebooks in the following order:
 
@@ -164,7 +164,7 @@ Open and run the notebooks in the following order:
 4️⃣  Train Metadata Models 
 5️⃣  Multimodal Fusion Model 
 
----
+
 
 🛠️ Dependencies
 
@@ -180,15 +180,15 @@ seaborn
 xgboost
 lightgbm
 catboost
-```
+
 
 Install using:
 
 ```bash
 pip install -r requirements.txt
-```
 
----
+
+
 
 ⚠️ Data Confidentiality Notice
 
@@ -198,7 +198,7 @@ The oral cavity images and patient metadata were collected through the Universit
 
 Researchers interested in replicating this study must obtain approval from the relevant medical institutions.
 
----
+
 
 💡 Expected Impact
 
@@ -209,7 +209,7 @@ This project demonstrates how artificial intelligence can assist healthcare prof
  💊 Better Outcomes - Improved patient survival rates through early intervention 
  🏥 Healthcare Support  - Assists systems with limited specialist availability 
 
----
+
 
 👥 Authors
 
@@ -222,7 +222,7 @@ JAC Sudarshika
 
 Supervisor: Dr. Chithraka Wickramarachchi
 
----
+
 
  📄 License
 

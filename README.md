@@ -121,7 +121,7 @@ Image Model → Prediction ──┐
                             ├──► Final Classification
 Metadata Model → Prediction ┘
 
-
+---
 This improves prediction reliability by combining visual features with patient information.
 
  6. Dataset Split
@@ -227,5 +227,7 @@ Supervisor: Dr. Chithraka Wickramarachchi
  📄 License
 
 This project is for academic purposes only. All rights reserved by the respective authors and institutions.
+
+
 
 
